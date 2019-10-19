@@ -1,0 +1,1 @@
+Just messing around with node and Fusebox for using Typescript with p5js
